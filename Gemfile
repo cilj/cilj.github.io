@@ -5,5 +5,5 @@ ruby RUBY_VERSION
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-gem "jekyll", "~> 3.3.0"
+gem "jekyll", "~> 3.6.3"
 gem "jekyll-theme-cayman"
