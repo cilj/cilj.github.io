@@ -1,1 +1,19 @@
+url: "https://cilj.github.io"
+project_name: cilj.github.io
+project_tagline: goals
+twitter_username: CiljProject
+github_username:  cilj
+
 theme: jekyll-theme-cayman
+
+livereload: true
+reload_port: 35729
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+# gems:
+#   - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
